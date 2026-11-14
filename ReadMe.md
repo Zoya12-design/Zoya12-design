@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/zoya-hulio"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://zoya-hulio-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Open%20to-Collaboration-20B2AA?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration" /></a>
 </p>
 
 ---
@@ -71,7 +70,7 @@ Currently working as a **Front-End / AI Engineering Intern at FlyRank**, I enjoy
 
 ### Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,ps, powershell" alt="Developer tools and design skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,ps" alt="Developer tools and design skills" />
 </p>
 
 <p>
