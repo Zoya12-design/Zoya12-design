@@ -1,6 +1,6 @@
 <!-- Animated-style profile header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A8A,100:7F5AF0&height=190&section=header&text=Zoya%20Hulio&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=17" width="100%" alt="Zoya Hulio profile banner" />
+  <img src="https://raw.githubusercontent.com/Zoya12-design/Zoya12-design/main/profile-banner.svg" width="100%" alt="Zoya Hulio profile banner" />
 </p>
 
 <h3 align="center">Building useful products with code, data & AI ✨</h3>
