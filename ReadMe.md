@@ -97,17 +97,18 @@ Currently working as a **Front-End / AI Engineering Intern at FlyRank**, I enjoy
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zoya12-design&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoya12-design&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=C9D1D9" alt="Most used programming languages" />
+  <img src="https://raw.githubusercontent.com/Zoya12-design/Zoya12-design/main/stats-card.svg" width="100%" alt="GitHub developer snapshot" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zoya12-design&hide_border=true&background=0D1117&ring=7F5AF0&fire=FF9E64&currStreakLabel=2CB67D&sideLabels=C9D1D9&dates=8B949E" width="75%" alt="GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/Zoya12-design/Zoya12-design/main/languages-card.svg" width="100%" alt="Selected programming languages and technologies" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zoya12-design&theme=discord&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies" />
+  <img src="https://raw.githubusercontent.com/Zoya12-design/Zoya12-design/main/trophy-card.svg" width="100%" alt="Learning milestones and growth" />
 </p>
+
+> These are self-hosted visual cards, so they do not depend on third-party stats or trophy services. The technology card highlights selected tools, not a live ranking of repository language usage.
 
 ---
 
